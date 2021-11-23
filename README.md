@@ -30,3 +30,16 @@
 - Uber;
 - Imgur;
 - SpaceX.
+
+### Quais são os principais IDEs de GoLang?
+<p>Os IDEs (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado) são softwares usados no desenvolvimento de outros softwares. Portanto, há alguns mais específicos conforme a linguagem adotada.</p>
+
+<p>Nesse sentido, confira alguns IDEs que são mais indicados para serem usados com Go (GoLang) e estude cada um deles a fim de escolher o mais indicado para você.</p>
+
+- Atom com Go-Plus
+- GoLand 
+- GoSublime 
+- LiteIDE
+- Vim-go
+- VSCode
+- Zeus 
