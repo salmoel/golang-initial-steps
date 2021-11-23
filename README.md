@@ -1,2 +1,2 @@
-# golang-initial-steps
-Primeiros passos com GoLang.
+## GoLang Initial Steps
+#### Primeiros passos com GoLang.
