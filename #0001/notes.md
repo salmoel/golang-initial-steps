@@ -1,7 +1,6 @@
 #### NOTE GOLANG
 
-
-´´´
+```golang
 package main
 
 import (
@@ -11,5 +10,4 @@ import (
 func main() {
 fmt.Print("Hello World!")
 }
-
-´´´
+```
