@@ -1,6 +1,6 @@
 #### NOTE GOLANG
 
-´´´go
+´´´
 package main
 
 import (
