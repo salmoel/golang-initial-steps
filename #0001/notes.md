@@ -1,23 +1,18 @@
-#### NOTE GOLANG
+mod.go funciona como package.json no NodeJS
 
-```golang
-package main
-
-import (
-"fmt"
-)
+pela primeira letra se define se será público ou privado, não é como na POO que definimos private, public, protected, se define pela primeira letra, veja:
 
 func main() {
-fmt.Print("Hello World!")
+fmt.Print("Hello world, pacote!")
+auxiliar.Escrever()
 }
-```
 
-> package main = pacote principal.main
+Essa primeira letra indica que é pública essa função que foi criada em outro modulo.
 
-> import (
-> "fmt"
-> ) = nesta seção é onde fica-se todos os imports que serão usados
+Quando essa função começa com letra minuscula ela só pode ser usada no pacote que ela está.
 
-> func main() {
-> fmt.Print("Hello World!")
-> } = nesta seção estamos criando uma função que neste exemplo estamos printando uma string que retorna um hello world!
+go build
+
+go install
+
+go run ./main.go
